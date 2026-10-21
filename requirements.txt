@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+
+streamlit #Streamlit is a Python library used to build web applications w/O HTML,CSS, JS.
+langchain #it is main library which is used to do automatically w/o this we have to do manually read pdf ,split text ,crt embedding,search.....evrything
+langchain-community #community integrations like FAISS and PDF loaders
+langchain-huggingface #Connects Hugging Face models to LangChain using a simple interface like HuggingFaceEmbeddings
+langchain-groq #our project uses Groq's LLM.Without this package,LangChain cannot communicate with Groq
+pypdf #used to read PDF files.
+transformers #it provides Pretrained NLP models from Hugging Face
+torch #Deep learning backend used by embedding model
+python-dotenv #This package reads the .env file
+faiss-cpu #FAISS stands for-Facebook AI Similarity Search.It stores document embeddings.Imagine your PDF has 100 pages.Instead of searching every page,FAISS finds only the most relevant chunks.
+sentence-transformers #Sentence Transformers convert text into vectors (embeddings).
+torchvision
+Docx2txtLoader
+TextLoader
