@@ -149,11 +149,7 @@ The `.venv/` directory is created locally during setup and should not be uploade
 
 ## 👨‍💻 Author
 
-**Gagan Gopal Naik**
-
-GitHub: [@gagannaik-n](https://github.com/gagannaik-n)
-
-Project Repository: [AI-Powered PDF Question Answering Chatbot](https://github.com/gagannaik-n/RAG)
+**Priya M Naik**
 
 ## 📄 License
 
